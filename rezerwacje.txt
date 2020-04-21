@@ -1,0 +1,4 @@
+nr_rezerwacji: {123ewq1234366} miasto: {Pcim} hotel: {Belwederski} nr_pokoju: {103} liczba_osob: {3} imie: {Monika} nazwisko: {Lis} od: {21.05.2020} do: {30.05.2020} email: {monia} nr_ID: {123ewq123} nr telefonu: {503}
+nr_rezerwacji: {qweqweqwe9554} miasto: {Krakow} hotel: {hotel1} nr_pokoju: {100} liczba_osob: {4} imie: {Monika} nazwisko: {Lis} od: {21.05.2020} do: {25.05.2020} email: {mm} nr_ID: {qweqweqwe} nr telefonu: {503}
+nr_rezerwacji: {qweqweasd9786} miasto: {Krakow} hotel: {hotel1} nr_pokoju: {100} liczba_osob: {4} imie: {Mon} nazwisko: {Lis} od: {26.05.2020} do: {30.05.2020} email: {ww} nr_ID: {qweqweasd} nr telefonu: {504}
+nr_rezerwacji: {qweqweqwe9972} miasto: {Krakow} hotel: {hotel1} nr_pokoju: {105} liczba_osob: {5} imie: {Mon} nazwisko: {Lis} od: {24.05.2020} do: {30.05.2020} email: {ww} nr_ID: {qweqweqwe} nr telefonu: {53}

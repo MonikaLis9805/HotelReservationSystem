@@ -1,0 +1,120 @@
+Miasto: Krakow
+Krakow hotel1
+Pokoje: {(100),(101),(102),(103),(104),(105)}
+Liczba osob: {(4),(2),(2),(3),(4),(5)}
+Krakow hotel2
+Pokoje: {(200),(201),(202),(203),(204),(205)}
+Liczba osob: {(4),(2),(2),(3),(4),(5)}
+Krakow hotel3
+Pokoje: {(300),(301),(302),(303),(304),(305)}
+Liczba osob: {(4),(2),(2),(3),(4),(5)}
+Krakow hotel4
+Pokoje: {(400),(401),(402),(403),(404),(405)}
+Liczba osob: {(4),(2),(2),(3),(4),(5)}
+Krakow hotel5
+Pokoje: {(500),(501),(502),(503),(504),(505)}
+Liczba osob: {(4),(2),(2),(3),(4),(5)}
+Krakow hotel6
+Pokoje: {(600),(601),(602),(603),(604),(605)}
+Liczba osob: {(4),(2),(2),(3),(4),(5)}
+
+Miasto: Poznan
+Poznan Blekitny-Raj
+Pokoje: {(100),(101),(102),(103),(104),(105)}
+Liczba osob: {(4),(2),(2),(3),(4),(5)}
+Poznan Zielona-Mila
+Pokoje: {(200),(201),(202),(203),(204),(205)}
+Liczba osob: {(4),(2),(2),(3),(4),(5)}
+Poznan Mis
+Pokoje: {(300),(301),(302),(303),(304),(305)}
+Liczba osob: {(4),(2),(2),(3),(4),(5)}
+Poznan Toszek
+Pokoje: {(400),(401),(402),(403),(404),(405)}
+Liczba osob: {(4),(2),(2),(3),(4),(5)}
+Poznan Ibis
+Pokoje: {(500),(501),(502),(503),(504),(505)}
+Liczba osob: {(4),(2),(2),(3),(4),(5)}
+Poznan Vera
+Pokoje: {(600),(601),(602),(603),(604),(605)}
+Liczba osob: {(4),(2),(2),(3),(4),(5)}
+
+Miasto: Warszawa
+Warszawa Przystan
+Pokoje: {(100),(101),(102),(103),(104),(105)}
+Liczba osob: {(4),(2),(2),(3),(4),(5)}
+Warszawa Dolinka
+Pokoje: {(200),(201),(202),(203),(204),(205)}
+Liczba osob: {(4),(2),(2),(3),(4),(5)}
+Warszawa Sloneczko
+Pokoje: {(300),(301),(302),(303),(304),(305)}
+Liczba osob: {(4),(2),(2),(3),(4),(5)}
+Warszawa Czarny-Jelen
+Pokoje: {(400),(401),(402),(403),(404),(405)}
+Liczba osob: {(4),(2),(2),(3),(4),(5)}
+Warszawa Koko
+Pokoje: {(500),(501),(502),(503),(504),(505)}
+Liczba osob: {(4),(2),(2),(3),(4),(5)}
+Warszawa Biesiada
+Pokoje: {(600),(601),(602),(603),(604),(605)}
+Liczba osob: {(4),(2),(2),(3),(4),(5)}
+
+Miasto: Lubliniec
+Lubliniec Novis
+Pokoje: {(100),(101),(102),(103),(104),(105)}
+Liczba osob: {(4),(2),(2),(3),(4),(5)}
+Lubliniec Kati
+Pokoje: {(200),(201),(202),(203),(204),(205)}
+Liczba osob: {(4),(2),(2),(3),(4),(5)}
+Lubliniec Novel
+Pokoje: {(300),(301),(302),(303),(304),(305)}
+Liczba osob: {(4),(2),(2),(3),(4),(5)}
+Lubliniec Charlie
+Pokoje: {(400),(401),(402),(403),(404),(405)}
+Liczba osob: {(4),(2),(2),(3),(4),(5)}
+Lubliniec Hampton
+Pokoje: {(500),(501),(502),(503),(504),(505)}
+Liczba osob: {(4),(2),(2),(3),(4),(5)}
+Lubliniec Hilton
+Pokoje: {(600),(601),(602),(603),(604),(605)}
+Liczba osob: {(4),(2),(2),(3),(4),(5)}
+
+Miasto: Pcim
+Pcim Belwederski
+Pokoje: {(100),(101),(102),(103),(104),(105)}
+Liczba osob: {(4),(2),(2),(3),(4),(5)}
+Pcim Mariott
+Pokoje: {(200),(201),(202),(203),(204),(205)}
+Liczba osob: {(4),(2),(2),(3),(4),(5)}
+Pcim Next
+Pokoje: {(300),(301),(302),(303),(304),(305)}
+Liczba osob: {(4),(2),(2),(3),(4),(5)}
+Pcim Palace
+Pokoje: {(400),(401),(402),(403),(404),(405)}
+Liczba osob: {(4),(2),(2),(3),(4),(5)}
+Pcim Science
+Pokoje: {(500),(501),(502),(503),(504),(505)}
+Liczba osob: {(4),(2),(2),(3),(4),(5)}
+Pcim Smart
+Pokoje: {(600),(601),(602),(603),(604),(605)}
+Liczba osob: {(4),(2),(2),(3),(4),(5)}
+
+Miasto: Rzeszow
+Rzeszow Norbit
+Pokoje: {(100),(101),(102),(103),(104),(105)}
+Liczba osob: {(4),(2),(2),(3),(4),(5)}
+Rzeszow Wilcza
+Pokoje: {(200),(201),(202),(203),(204),(205)}
+Liczba osob: {(4),(2),(2),(3),(4),(5)}
+Rzeszow Sleep
+Pokoje: {(300),(301),(302),(303),(304),(305)}
+Liczba osob: {(4),(2),(2),(3),(4),(5)}
+Rzeszow Roommate
+Pokoje: {(400),(401),(402),(403),(404),(405)}
+Liczba osob: {(4),(2),(2),(3),(4),(5)}
+Rzeszow Varsovie
+Pokoje: {(500),(501),(502),(503),(504),(505)}
+Liczba osob: {(4),(2),(2),(3),(4),(5)}
+Rzeszow Studio
+Pokoje: {(600),(601),(602),(603),(604),(605)}
+Liczba osob: {(4),(2),(2),(3),(4),(5)}
+

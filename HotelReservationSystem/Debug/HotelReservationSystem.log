@@ -1,0 +1,52 @@
+﻿  Hotel.cpp
+C:\Users\MONIKA\Desktop\Hotel reservation system\HotelReservationSystem\Pokoj.h(62,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\MONIKA\Desktop\Hotel reservation system\HotelReservationSystem\Pokoj.h(94,13): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\MONIKA\Desktop\Hotel reservation system\HotelReservationSystem\Pokoj.h(260,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\MONIKA\Desktop\Hotel reservation system\HotelReservationSystem\Pokoj.h(268,24): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\MONIKA\Desktop\Hotel reservation system\HotelReservationSystem\Hotel.h(56,24): warning C4244: "inicjowanie": konwersja z "std::streamoff" do "int", możliwa utrata danych
+C:\Users\MONIKA\Desktop\Hotel reservation system\HotelReservationSystem\Hotel.h(50,7): warning C4101: "liczba": lokalna zmienna, do której nie istnieje odwołanie
+  Miasto.cpp
+C:\Users\MONIKA\Desktop\Hotel reservation system\HotelReservationSystem\Pokoj.h(62,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\MONIKA\Desktop\Hotel reservation system\HotelReservationSystem\Pokoj.h(94,13): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\MONIKA\Desktop\Hotel reservation system\HotelReservationSystem\Pokoj.h(260,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\MONIKA\Desktop\Hotel reservation system\HotelReservationSystem\Pokoj.h(268,24): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\MONIKA\Desktop\Hotel reservation system\HotelReservationSystem\Hotel.h(56,24): warning C4244: "inicjowanie": konwersja z "std::streamoff" do "int", możliwa utrata danych
+C:\Users\MONIKA\Desktop\Hotel reservation system\HotelReservationSystem\Hotel.h(50,7): warning C4101: "liczba": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\MONIKA\Desktop\Hotel reservation system\HotelReservationSystem\Miasto.h(72,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\MONIKA\Desktop\Hotel reservation system\HotelReservationSystem\Miasto.h(79,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\MONIKA\Desktop\Hotel reservation system\HotelReservationSystem\Miasto.h(158,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\MONIKA\Desktop\Hotel reservation system\HotelReservationSystem\Miasto.h(171,24): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\MONIKA\Desktop\Hotel reservation system\HotelReservationSystem\Miasto.h(183,26): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\MONIKA\Desktop\Hotel reservation system\HotelReservationSystem\Miasto.h(191,28): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\MONIKA\Desktop\Hotel reservation system\HotelReservationSystem\Miasto.h(220,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\MONIKA\Desktop\Hotel reservation system\HotelReservationSystem\Miasto.h(225,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\MONIKA\Desktop\Hotel reservation system\HotelReservationSystem\Miasto.h(239,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\MONIKA\Desktop\Hotel reservation system\HotelReservationSystem\Miasto.h(276,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\MONIKA\Desktop\Hotel reservation system\HotelReservationSystem\Miasto.h(289,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Pokoj.cpp
+C:\Users\MONIKA\Desktop\Hotel reservation system\HotelReservationSystem\Pokoj.h(62,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\MONIKA\Desktop\Hotel reservation system\HotelReservationSystem\Pokoj.h(94,13): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\MONIKA\Desktop\Hotel reservation system\HotelReservationSystem\Pokoj.h(260,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\MONIKA\Desktop\Hotel reservation system\HotelReservationSystem\Pokoj.h(268,24): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  main.cpp
+C:\Users\MONIKA\Desktop\Hotel reservation system\HotelReservationSystem\Pokoj.h(62,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\MONIKA\Desktop\Hotel reservation system\HotelReservationSystem\Pokoj.h(94,13): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\MONIKA\Desktop\Hotel reservation system\HotelReservationSystem\Pokoj.h(260,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\MONIKA\Desktop\Hotel reservation system\HotelReservationSystem\Pokoj.h(268,24): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\MONIKA\Desktop\Hotel reservation system\HotelReservationSystem\Hotel.h(56,24): warning C4244: "inicjowanie": konwersja z "std::streamoff" do "int", możliwa utrata danych
+C:\Users\MONIKA\Desktop\Hotel reservation system\HotelReservationSystem\Hotel.h(50,7): warning C4101: "liczba": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\MONIKA\Desktop\Hotel reservation system\HotelReservationSystem\Miasto.h(72,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\MONIKA\Desktop\Hotel reservation system\HotelReservationSystem\Miasto.h(79,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\MONIKA\Desktop\Hotel reservation system\HotelReservationSystem\Miasto.h(158,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\MONIKA\Desktop\Hotel reservation system\HotelReservationSystem\Miasto.h(171,24): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\MONIKA\Desktop\Hotel reservation system\HotelReservationSystem\Miasto.h(183,26): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\MONIKA\Desktop\Hotel reservation system\HotelReservationSystem\Miasto.h(191,28): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\MONIKA\Desktop\Hotel reservation system\HotelReservationSystem\Miasto.h(220,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\MONIKA\Desktop\Hotel reservation system\HotelReservationSystem\Miasto.h(225,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\MONIKA\Desktop\Hotel reservation system\HotelReservationSystem\Miasto.h(239,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\MONIKA\Desktop\Hotel reservation system\HotelReservationSystem\Miasto.h(276,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\MONIKA\Desktop\Hotel reservation system\HotelReservationSystem\Miasto.h(289,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\MONIKA\Desktop\Hotel reservation system\HotelReservationSystem\main.cpp(79,2): warning C4065: instrukcja switch zawiera etykietę "default" ale nie zawiera etykiet "case"
+C:\Users\MONIKA\Desktop\Hotel reservation system\HotelReservationSystem\main.cpp(111,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Generowanie kodu...
+  HotelReservationSystem.vcxproj -> C:\Users\MONIKA\Desktop\Hotel reservation system\HotelReservationSystem\Debug\HotelReservationSystem.exe
